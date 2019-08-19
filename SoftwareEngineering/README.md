@@ -6,4 +6,4 @@
 
 # 数据结构与算法
 
-![数据结构与算法](https://i.postimg.cc/TwJXwHdG/image.png)
+![数据结构与算法](https://i.postimg.cc/KckB0Fd3/image.png)
