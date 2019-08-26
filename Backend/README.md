@@ -4,12 +4,20 @@
 
 # 微服务
 
-![微服务与云原生](https://i.postimg.cc/8cxL1X9H/image.png)
+![微服务与云原生](https://i.postimg.cc/rs4z3W4D/image.png)
 
 # 高可用架构
 
-![高可用架构](https://i.postimg.cc/mr6548dX/image.png)
+![高可用架构](https://i.postimg.cc/YqcvgncY/image.png)
 
 ![缓存](https://i.postimg.cc/76Y3X2Sg/image.png)
 
 ![故障点](https://i.postimg.cc/Gt4knn7t/image.png)
+
+# DevOps
+
+![DevOps 全景图](https://i.postimg.cc/L6znVtR7/image.png)
+
+![监控与告警体系](https://i.postimg.cc/jStC3DSj/image.png)
+
+![SRE 黄金指标](https://i.postimg.cc/nzyh4zWp/image.png)
