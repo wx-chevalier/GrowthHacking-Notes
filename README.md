@@ -10,7 +10,7 @@
 
 - 知识要点
 
-![知识要点](https://i.postimg.cc/prm1pzCr/image.png)
+![知识要点](https://i.postimg.cc/FKNBH7GC/image.png)
 
 # Home & More | 延伸阅读
 
