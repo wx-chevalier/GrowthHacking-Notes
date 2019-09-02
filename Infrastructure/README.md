@@ -12,4 +12,4 @@
 
 # Distributed Computing | 分布式计算
 
-![并发编程](https://i.postimg.cc/jdJMpjc0/image.png)
+![并发编程](https://s2.ax1x.com/2019/09/02/nCL9Ej.png)
