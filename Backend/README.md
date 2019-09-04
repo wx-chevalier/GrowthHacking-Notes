@@ -1,6 +1,6 @@
 # Backend Series
 
-![服务端开发与架构全景图](https://i.postimg.cc/Hx3tjpXz/image.png)
+![服务端开发与架构全景图](https://s2.ax1x.com/2019/09/04/nE8T4x.png)
 
 # 微服务与云原生
 

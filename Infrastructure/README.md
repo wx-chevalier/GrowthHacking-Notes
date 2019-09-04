@@ -1,6 +1,6 @@
 # Distributed Infrastructure MindMaps
 
-![服务端开发与架构全景图](https://i.postimg.cc/Hx3tjpXz/image.png)
+![服务端开发与架构全景图](https://s2.ax1x.com/2019/09/04/nE8T4x.png)
 
 # Distributed System | 分布式系统
 
