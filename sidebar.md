@@ -1,8 +1,8 @@
+  - [AI](/AI/README.md)
+    
   - [Backend](/Backend/README.md)
     
   - [Business](/Business/README.md)
-    
-  - [DataScienceAI](/DataScienceAI/README.md)
     
   - [Frontend](/Frontend/README.md)
     - [大前端公共知识杂谈](/Frontend/大前端公共知识杂谈.md)
