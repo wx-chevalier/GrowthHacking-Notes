@@ -17,8 +17,8 @@
                     "created": 1596874306585,
                     "text": "监控目的",
                     "layout_mind_offset": {
-                        "x": -406,
-                        "y": -50
+                        "x": -422.66666600439294,
+                        "y": 106.66666044129306
                     },
                     "layout_right_offset": {
                         "x": -414,
@@ -177,8 +177,8 @@
                     "created": 1596875382020,
                     "text": "监控手段",
                     "layout_mind_offset": {
-                        "x": -28.666684481831965,
-                        "y": -77.16666471295895
+                        "x": -2.0000188748031746,
+                        "y": -3.8333342936304575
                     },
                     "expandState": "expand",
                     "resource": [
@@ -270,8 +270,8 @@
                     "created": 1596875450174,
                     "text": "统计告警",
                     "layout_mind_offset": {
-                        "x": -38,
-                        "y": -32
+                        "x": -227.99999245007825,
+                        "y": -111.99999682108569
                     },
                     "resource": [
                         "Observability"
@@ -375,8 +375,8 @@
                     "created": 1596875453273,
                     "text": "监控方式",
                     "layout_mind_offset": {
-                        "x": 67,
-                        "y": 125
+                        "x": 58,
+                        "y": 142
                     },
                     "resource": [
                         "Observability"
