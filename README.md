@@ -12,7 +12,13 @@
 
 ![知识要点](https://i.postimg.cc/FKNBH7GC/image.png)
 
-# Copyright & More | 延伸阅读
+# About
+
+## Acknowledgements
+
+- https://github.com/panjianlong13/MindMapSummary
+
+## Copyright & More | 延伸阅读
 
 [![技术视野](https://s3.ax1x.com/2021/02/21/yTSKdH.png)](https://github.com/wx-chevalier/Awesome-MindMaps)
 
