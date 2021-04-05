@@ -1,6 +1,6 @@
 ![](https://i.postimg.cc/65pX77ws/image.png)
 
-# Awesome ITCS MindMaps
+# Awesome MindMaps for ITCS
 
 [Awesome ITCS MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) 是笔者所有系列文章、代码、项目中的知识系统的脑图形式的总结：
 
@@ -12,11 +12,13 @@
 
 ![知识要点](https://i.postimg.cc/FKNBH7GC/image.png)
 
+本仓库所有文件以 MindMap 软件编辑，也基于 [xmind-viewer](https://github.com/xmindltd/xmind-viewer) 提供了 Web 在线预览版本以供查看。
+
 # About
 
 ## Acknowledgements
 
-- https://github.com/panjianlong13/MindMapSummary
+- [https://github.com/panjianlong13/MindMapSummary](https://github.com/panjianlong13/MindMapSummary): 自己学习总结了一些思维导图(持续更新中)，分享给大家。
 
 ## Copyright & More | 延伸阅读
 
