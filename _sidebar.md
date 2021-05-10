@@ -6,7 +6,7 @@
   - [4 Infrastructure](/Infrastructure/README.md)
     - 4.1 Database
       - [4.1.1 MySQL](/Infrastructure/Database/MySQL.md)
-  - [5 PL](/PL/README.md)
+  - [5 Language](/Language/README.md)
     
   - [6 SoftwareArchitecture](/SoftwareArchitecture/README.md)
     
