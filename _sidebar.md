@@ -1,14 +1,14 @@
-  - [1 AI](/AI/README.md)
+  - [1 INTRODUCTION](/INTRODUCTION.md)
+  - [2 Language](/Language/README.md)
     
-  - [2 Frontend](/Frontend/README.md)
+  - [3 Frontend](/Frontend/README.md)
     
-  - [3 INTRODUCTION](/INTRODUCTION.md)
-  - [4 Infrastructure](/Infrastructure/README.md)
-    - 4.1 Database
-      - [4.1.1 MySQL](/Infrastructure/Database/MySQL.md)
-  - [5 Language](/Language/README.md)
+  - [4 System](/System/README.md)
     
-  - [6 SoftwareArchitecture](/SoftwareArchitecture/README.md)
+  - [5 Architecture](/Architecture/README.md)
     
-  - [7 System](/System/README.md)
+  - [6 Infrastructure](/Infrastructure/README.md)
+    - 6.1 Database
+      - [6.1.1 MySQL](/Infrastructure/Database/MySQL.md)
+  - [7 AI](/AI/README.md)
     
