@@ -1,4 +1,4 @@
-![](https://i.postimg.cc/65pX77ws/image.png)
+![知识脉络题图](https://pic.imgdb.cn/item/611770e15132923bf8e7315c.jpg)
 
 # Awesome MindMaps for ITCS
 
