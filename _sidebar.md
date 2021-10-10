@@ -7,8 +7,8 @@
     
   - [5 Architecture](/Architecture/README.md)
     
-  - [6 Infrastructure](/Infrastructure/README.md)
-    - 6.1 Database
+  - [6 Infrastructure [1]](/Infrastructure/README.md)
+    - 6.1 Database [1]
       - [6.1.1 MySQL](/Infrastructure/Database/MySQL.md)
   - [7 AI](/AI/README.md)
     
