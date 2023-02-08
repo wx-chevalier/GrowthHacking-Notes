@@ -1,6 +1,6 @@
-  - [1 INTRODUCTION](/INTRODUCTION.md)
-  - [2 Language](/Language/README.md)
+  - [1 1.Language](/1.Language/README.md)
     
+  - [2 INTRODUCTION](/INTRODUCTION.md)
   - [3 Frontend](/Frontend/README.md)
     
   - [4 System](/System/README.md)
