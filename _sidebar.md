@@ -1,4 +1,4 @@
-  - [1 1.Language](/1.Language/README.md)
+  - [1 1.CS](/1.CS/README.md)
     
   - [2 INTRODUCTION](/INTRODUCTION.md)
   - [3 Frontend](/Frontend/README.md)
