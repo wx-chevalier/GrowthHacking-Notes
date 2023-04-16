@@ -6,7 +6,7 @@
 
 - 知识脉络
 
-![知识脉络](https://i.postimg.cc/fL2rzBx1/image.png)
+![知识脉络](https://assets.ng-tech.icu/item/20230416202635.png)
 
 - 知识要点
 
