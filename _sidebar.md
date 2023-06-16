@@ -1,16 +1,42 @@
-  - [1 1.CS](/1.CS/README.md)
-    
-  - [2 AI [1]](/AI/README.md)
-    - [2.1 MachineLearning [1]](/AI/MachineLearning/README.md)
-      - 2.1.1 99.参考资料 [1]
-        - [2.1.1.1 ZOE 统计学与机器学习思维脑图](/AI/MachineLearning/99.参考资料/2018-ZOE-统计学与机器学习思维脑图.md)
-  - [3 Architecture](/Architecture/README.md)
-    
-  - [4 Frontend](/Frontend/README.md)
-    
-  - [5 INTRODUCTION](/INTRODUCTION.md)
-  - [6 Infrastructure [1]](/Infrastructure/README.md)
-    - 6.1 Database [1]
-      - [6.1.1 MySQL](/Infrastructure/Database/MySQL.md)
-  - [7 System](/System/README.md)
-    
+  - [1 03.增长运营 [7]](/03.增长运营/README.md)
+    - 1.1 99.参考资料 [1]
+      - [1.1.1 《高阶增长黑客实战训练营》学习笔记](/03.增长运营/99.参考资料/2022-《高阶增长黑客实战训练营》学习笔记.md)
+    - [1.2 AAARR](/03.增长运营/AAARR/README.md)
+      
+    - 1.3 Google Analytics [4]
+      - [1.3.1 1.事件 [1]](/03.增长运营/Google%20Analytics/1.事件/README.md)
+        - [1.3.1.1 事件报表](/03.增长运营/Google%20Analytics/1.事件/事件报表.md)
+      - [1.3.2 1.人群](/03.增长运营/Google%20Analytics/1.人群/README.md)
+        
+      - [1.3.3 1.探索报表 [3]](/03.增长运营/Google%20Analytics/1.探索报表/README.md)
+        - [1.3.3.1 區隔重疊報表](/03.增长运营/Google%20Analytics/1.探索报表/區隔重疊報表.md)
+        - [1.3.3.2 漏斗探索报表](/03.增长运营/Google%20Analytics/1.探索报表/漏斗探索报表.md)
+        - [1.3.3.3 路徑探索報表](/03.增长运营/Google%20Analytics/1.探索报表/路徑探索報表.md)
+      - 1.3.4 99.参考资料 [2]
+        - [1.3.4.1 GA4 从入门到精深](/03.增长运营/Google%20Analytics/99.参考资料/GA4%20从入门到精深.md)
+        - [1.3.4.2 一次看懂電商品牌必用 GA4 報表](/03.增长运营/Google%20Analytics/99.参考资料/一次看懂電商品牌必用%20GA4%20報表.md)
+    - [1.4 SEO [2]](/03.增长运营/SEO/README.md)
+      - 1.4.1 WordPress [2]
+        - [1.4.1.1 主题开发 [2]](/03.增长运营/SEO/WordPress/主题开发/README.md)
+          - [1.4.1.1.1 基本模板](/03.增长运营/SEO/WordPress/主题开发/基本模板/README.md)
+            
+          - 1.4.1.1.2 模板构成 [3]
+            - [1.4.1.1.2.1 主题样式表](/03.增长运营/SEO/WordPress/主题开发/模板构成/主题样式表.md)
+            - [1.4.1.1.2.2 函数文件](/03.增长运营/SEO/WordPress/主题开发/模板构成/函数文件.md)
+            - [1.4.1.1.2.3 模板文件](/03.增长运营/SEO/WordPress/主题开发/模板构成/模板文件.md)
+        - 1.4.1.2 常用插件 [1]
+          - [1.4.1.2.1 Yoast Plugin](/03.增长运营/SEO/WordPress/常用插件/Yoast%20Plugin.md)
+      - [1.4.2 robots.txt](/03.增长运营/SEO/robots.txt.md)
+    - [1.5 北极星指标 [2]](/03.增长运营/北极星指标/README.md)
+      - [1.5.1 常见运营指标拆解](/03.增长运营/北极星指标/常见运营指标拆解.md)
+      - 1.5.2 案例 [1]
+        - [1.5.2.1 拼多多：用北极星指标构建增长模型](/03.增长运营/北极星指标/案例/2022-拼多多：用北极星指标构建增长模型.md)
+    - [1.6 用户增长 [3]](/03.增长运营/用户增长/README.md)
+      - [1.6.1 PMF](/03.增长运营/用户增长/PMF.md)
+      - [1.6.2 增长黑客](/03.增长运营/用户增长/增长黑客.md)
+      - [1.6.3 鸿沟理论](/03.增长运营/用户增长/鸿沟理论.md)
+    - [1.7 运营分析 [3]](/03.增长运营/运营分析/README.md)
+      - [1.7.1 AB 测试](/03.增长运营/运营分析/AB%20测试.md)
+      - [1.7.2 流量分析](/03.增长运营/运营分析/流量分析.md)
+      - [1.7.3 用户识别](/03.增长运营/运营分析/用户识别.md)
+  - [2 INTRODUCTION](/INTRODUCTION.md)
